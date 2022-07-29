@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Nihaal-TG}/count.svg)
 ## GitHub Status
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nihaal-TG&theme=highcontrast" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shazard10&theme=highcontrast" align="center">
 </p>
 
 # Contact

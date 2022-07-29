@@ -1,4 +1,5 @@
-## ʜɪ ɪᴀᴍ ɴɪʜᴀᴀʟ
+## 𝘏𝘦𝘺𝘪
+𝙄𝙖𝙢 𝙎𝙝𝙖𝙣𝙞𝙙 🥳
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
@@ -14,5 +15,5 @@
 
 # Contact
 <p align="center">
-<a href="https://t.me/NL_BOTxCHAT"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/heyboy2004"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>

@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
-- **📚 ʜɪɢʜ sᴄʜᴏᴏʟ sᴛᴜᴅᴇɴᴛ**
+- **📚 Dᴇɢʀᴇᴇ**
 - **❤️ ᴛᴇʟᴇɢʀᴀᴍ**
 
 ## Profile views

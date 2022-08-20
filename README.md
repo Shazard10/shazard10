@@ -1,34 +1,30 @@
-## 𝘏𝘦𝘺𝘪
-𝙄𝙖𝙢 𝙎𝙝𝙖𝙣𝙞𝙙 🥳
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Aadhi+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Deploma+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small+Youtube+come+developer+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="Aadhi" width="650" height="55">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
+<div align="center">
+<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
 
-- **📚 Dᴇɢʀᴇᴇ**
-- **❤️ ᴛᴇʟᴇɢʀᴀᴍ**
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aadil_m__)
+ [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/OpusTechz)
 
-## Profile views
-![Visitor Count](https://profile-counter.glitch.me/{Nihaal-TG}/count.svg)
-## GitHub Status
+<a href="https://telegram.dog/ContactAdmin_0_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+</p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shazard10&theme=highcontrast" align="center">
-</p>
+<img src="https://github-stats-alpha.vercel.app/api/?username=aadhi000&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>    
 
-# Contact
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhi000&theme=highcontrast)](https://github.com/Aadhi000/github-readme-streak-stats)
+</div>
+
 <p align="center">
-<a href="https://t.me/heyboy2004"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/Aadhi000">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Aadhi000&theme=react-dark" />
+  </a>
 </p>
-- 🌚 <b>nσσв</b>
-- 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
-- ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
-- 🌹<b>Repos Hide Free On Follows</b>
 
-<p><img aling="center"src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif"/></p>
-
- 
--  ⚡ **Follow me for more**
- 
- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shazard10&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=shazard10&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
+<p align="center">
+<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+  <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">
 </p>
- 
+

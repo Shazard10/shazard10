@@ -14,12 +14,12 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=Shazard10&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>    
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhi000&theme=highcontrast)](https://github.com/Shazard10/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shazard10&theme=highcontrast)](https://github.com/Shazard10/github-readme-streak-stats)
 </div>
 
 <p align="center">
   <a href="https://github.com/Shazard10">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Aadhi000&theme=react-dark" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Shazard10&theme=react-dark" />
   </a>
 </p>
 

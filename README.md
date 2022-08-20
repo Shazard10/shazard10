@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<a href="[https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA](https://t.me/new_movies_group_2021)">
+<a href="https://t.me/new_movies_group_2021">
   <img src="https://img.shields.io/badge/JOIN GROUP-black?logo=telegram" width="180">
 </p>
 
